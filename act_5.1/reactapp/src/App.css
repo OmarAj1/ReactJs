@@ -1,0 +1,37 @@
+/* #first {
+    font-weight: 900;
+} */
+body {
+    color: #c9c9c9;
+    display: flex;
+    background-color: #c9c9c9;
+    justify-content: center;
+}
+.card {
+    background-color: #907575;
+    margin: 10px;
+}
+#Main {
+    display: flex;
+    /* justify-content: row; */
+    padding:30px;
+    justify-content: space-between;
+    width:1200px ;
+}
+img{
+    width: 400px;
+
+}
+.content {
+    padding: 10px;
+}
+a{
+    text-decoration: none;
+    cursor: pointer;
+    color : #c9c9c9;
+
+    border: pink     1px solid;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+}
